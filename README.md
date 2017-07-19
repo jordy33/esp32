@@ -1,6 +1,6 @@
 ### ESP 32 ###
 
-![](https://https://github.com/jordy33/esp32/blob/master/doit-esp32-devkit.jpg?raw=true)
+![](https://github.com/jordy33/esp32/blob/master/doit-esp32-devkit.jpg?raw=true)
 
 http://www.ebay.co.uk/itm/ESP-WROOM-32-Espressif-ESP-32-ESP-32S-IoT-Wifi-Wlan-BLE-Module-mit-Adapter-Board-/272598527195
 
